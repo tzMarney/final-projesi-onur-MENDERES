@@ -59,4 +59,8 @@ Uygulama aşağıdaki örnek konularla test edilmiştir:
 
 ## Yapay Zeka Kullanımı
 
-Projenin planlama ve geliştirme sürecinde yapay zeka araçlarından yararlanılmıştır.
+Projenin planlama ve geliştirme sürecinde yapay zeka araçlarından yararlanılmıştır
+## Tanıtım Videosu
+
+Video Bağlantısı:
+[https://.....](https://www.youtube.com/watch?v=UzTGH1X6FvE)
